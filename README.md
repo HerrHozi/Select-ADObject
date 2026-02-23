@@ -66,7 +66,7 @@ Select-ADObject
 ### Example #2
 
 ```powershell
-Select-ADObject -MarkTier0 -IncludeUsers -Title "Select Break Glas Account"
+Select-ADObject -MarkTier0 -IncludeUsers -Title "Select Break Glass Account"
 ```
 
 ---
