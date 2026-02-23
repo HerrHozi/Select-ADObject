@@ -3,7 +3,8 @@
 
 Interactive Active Directory object picker with GUI-based forest browsing and Tier 0 highlighting.
 
-<img width="504" height="501" alt="image" src="https://github.com/user-attachments/assets/9e8b4c3d-27a7-4428-a51a-27266ce00bcc" />
+<img width="527" height="546" alt="image" src="https://github.com/user-attachments/assets/5c85d3a8-5613-4c81-ae12-2c29e853337f" />
+
 
 
 
