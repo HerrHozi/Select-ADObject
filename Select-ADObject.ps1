@@ -85,9 +85,6 @@
         [string]$Tier0Regex = '(?i)(^CN=Administrator,|^OU=Domain Controllers,|^OU=Tier\s*0|^OU=T0)'
     )
 
-    #$CurrentFunction = "Get-FunctionName
-    #Write-Log -Message "### Start Function $CurrentFunction ###"
-    #$StartRunTime = (Get-Date).ToString($Script:DateFormatLog)
     #################### main code | out- host #####################
 
     # =========================
@@ -421,11 +418,6 @@
 
     $null = $form.ShowDialog()
 
-    #Write-Log -Message "    >> using $form.Tag"
-    ######################## main code ############################
-    #$runtime = Get-RunTime -StartRunTime $StartRunTime
-    #Write-Log -Message "    Run Time: $runtime [h] ###"
-    #Write-Log -Message "### End Function $CurrentFunction ###"
-
     return $form.Tag
+
 }
